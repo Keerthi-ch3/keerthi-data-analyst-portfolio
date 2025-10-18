@@ -14,15 +14,22 @@ This project focused on **end-to-end analytics** — from ETL design and validat
 
 ---
 
-### 🔧 Project Workflow
+### 🧩 Project Workflow
 
-**| Phase | Description |**
-|:--|:--|
-| **1️⃣ Data Extraction (ETL)** | Imported multiple CSV sources into PostgreSQL while keeping raw schemas untouched. |
-| **2️⃣ Data Quality Checks** | Validated duplicates, null values, and mapping errors with SQL scripts. |
-| **3️⃣ Master Table Creation** | Built a central Master Table joining Learner and Opportunity datasets. |
-| **4️⃣ Dashboard Development** | Designed interactive Looker Studio dashboards showing engagement and completion rates. |
-| **5️⃣ Documentation & Reporting** | Recorded data flows, transformations, and KPI definitions for stakeholders. |
+#### 🔹 1️⃣ Data Extraction (ETL)
+Imported multiple CSV sources into PostgreSQL while keeping raw schemas untouched and preserving data integrity.
+
+#### 🔹 2️⃣ Data Quality Checks
+Validated datasets for duplicates, null values, and incorrect mappings using advanced SQL queries.
+
+#### 🔹 3️⃣ Master Table Creation
+Created a unified Master Table by merging Learner, Opportunity, and Mapping datasets using ETL workflows.
+
+#### 🔹 4️⃣ Dashboard Development
+Built an interactive Looker Studio dashboard to visualize metrics such as learner engagement, completion rate, and top-performing modules.
+
+#### 🔹 5️⃣ Documentation & Reporting
+Documented KPIs, transformation logic, and validation scripts; prepared final reporting for stakeholder review.
 
 ---
 
