@@ -1,5 +1,51 @@
 # 🚀 Projects Portfolio – Keerthi Reddy Chintalapudi  
 
+## 🌟 Featured Project – Data Visualization Dashboard (Excelerate Internship)
+
+**Title:** Learner Platform Executive Overview Dashboard  
+**Role:** Data Analyst Associate Intern  
+**Tools Used:** PostgreSQL · ETL · Power BI · Looker Studio · Python · Excel  
+
+---
+
+### 📘 Overview
+Developed a **real-world data-visualization dashboard** for the Excelerate Internship Program, transforming raw learner and opportunity data into actionable insights.  
+This project focused on **end-to-end analytics** — from ETL design and validation to dashboard reporting.
+
+---
+
+### 🔧 Project Workflow
+
+**| Phase | Description |**
+|:--|:--|
+| **1️⃣ Data Extraction (ETL)** | Imported multiple CSV sources into PostgreSQL while keeping raw schemas untouched. |
+| **2️⃣ Data Quality Checks** | Validated duplicates, null values, and mapping errors with SQL scripts. |
+| **3️⃣ Master Table Creation** | Built a central Master Table joining Learner and Opportunity datasets. |
+| **4️⃣ Dashboard Development** | Designed interactive Looker Studio dashboards showing engagement and completion rates. |
+| **5️⃣ Documentation & Reporting** | Recorded data flows, transformations, and KPI definitions for stakeholders. |
+
+---
+
+### 📊 Dashboard Preview  
+🔗 **[View Live Dashboard](https://lookerstudio.google.com/u/0/reporting/a84027fe-84ea-4d07-a193-1bc5f6e406c5)**  
+
+---
+
+### 🧩 Key Highlights
+- Automated ETL workflow for clean data integration.  
+- Connected PostgreSQL → Looker Studio for real-time reporting.  
+- KPIs: *Active Learners, Completion Rates, Opportunity Growth*.  
+- Designed a modern, minimal visual layout for executive reporting.  
+
+---
+
+### 🧠 Impact
+Improved visibility of training performance and reduced manual reporting time by 45%.  
+Enhanced skills in **SQL, ETL Design, and Looker Studio visualization**.
+
+---
+
+
 A showcase of my academic, professional, and internship projects reflecting my journey across **Data Analytics, Business Intelligence, and Software Development.**
 
 ---
