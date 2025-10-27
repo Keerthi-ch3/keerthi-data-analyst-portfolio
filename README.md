@@ -19,7 +19,7 @@ Welcome to my professional portfolio — a collection of my projects, technical 
 ## 🧠 Summary  
 
 I’m a results-driven **Data Analyst and Business Intelligence Professional** with strong analytical and programming skills.  
-With a Master’s in *Information Systems and Technology (UMSL, GPA: 3.96/4.0)* and a B.Tech in *Computer Science and Engineering (GPA: 9.0/10)*, I specialize in both **data-driven decision making** and **software problem-solving**.  
+With a **Master’s in Information Systems and Technology (UMSL, GPA: 3.96/4.0)** and a **B.Tech in Computer Science and Engineering (GPA: 9.0/10)**, I specialize in both **data-driven decision making** and **software problem-solving**.  
 
 My core goal is to turn raw data and systems into meaningful insights and efficient solutions that support business growth.
 
@@ -27,25 +27,25 @@ My core goal is to turn raw data and systems into meaningful insights and effici
 
 ## ⚙️ Technical Expertise  
 
-**Data Analytics & BI Tools:**  
+**🧩 Data Analytics & BI Tools:**  
 Power BI · Tableau · Looker Studio · Excel · ETL · Data Visualization  
 
-**Programming & Software Development:**  
+**💻 Programming & Software Development:**  
 Python (Pandas, NumPy, Matplotlib) · Java · C · C++ · HTML · CSS  
 
-**Database Management:**  
+**🗄️ Database Management:**  
 SQL · PostgreSQL · MySQL · Oracle SQL Developer  
 
-**Cloud & Tools:**  
+**☁️ Cloud & Tools:**  
 AWS (Basics) · Google Cloud · Jupyter Notebook · Git & GitHub  
 
 ---
 
 ## 🏆 Highlights  
 
-- 📊 Built Power BI and Looker Studio dashboards for **Excelerate Internship** and **Accenture** projects.  
-- 🧩 Designed ERDs, DFDs, and process flow diagrams for **Thompson Logistics System** academic case.  
-- 💻 Created Python and OpenCV projects, including **Facial Expression Recognition** and **Book Recommendation Chatbot**.  
+- 📊 Built **Power BI** and **Looker Studio** dashboards for *Excelerate Internship* and *Accenture* projects.  
+- 🧩 Designed **ERDs**, **DFDs**, and process flow diagrams for the *Thompson Logistics System* academic case.  
+- 💻 Created **Python and OpenCV** projects, including *Facial Expression Recognition* and *Book Recommendation Chatbot*.  
 - 🎯 Balanced both **Data Analyst** and **Software Developer** career tracks to stay versatile and industry-ready.  
 
 ---
@@ -56,21 +56,21 @@ AWS (Basics) · Google Cloud · Jupyter Notebook · Git & GitHub
   <img src="https://github.com/Keerthi-ch3/keerthi-data-analyst-portfolio/blob/main/Screenshot%202025-10-27%20161504.png" width="90%" alt="Starbucks Executive Dashboard Preview"/>
 </p>
 
-**🔍 Description:**  
+### 🔍 Description  
 An interactive **Power BI dashboard** visualizing Starbucks’ monthly sales performance.  
-It highlights key KPIs like **Total Sales**, **Average Ticket**, and **Transactions**, and provides **store-wise** and **promo vs non-promo** insights — all aligned with Starbucks’ brand theme ☕💚.
+It highlights key KPIs like **Total Sales**, **Average Ticket**, and **Transactions**, and provides store-wise and promo vs non-promo insights — all aligned with Starbucks’ signature brand theme ☕💚.
 
-**📊 Features:**  
+### 📊 Features  
 - KPI Cards for Total Sales, Average Ticket, and Transactions  
 - Line Chart for Monthly Sales Trends  
 - Bar Chart for Store-wise Sales Comparison  
 - Pie Chart for Promo vs Non-Promo Ratio  
 
-**🧠 Tools & Techniques:**  
+### 🧠 Tools & Techniques  
 Power BI · DAX · Data Modeling · CSV Integration · ETL with Power Query  
 
-**📄 View Project:**  
-[Download Starbucks Executive Overview Dashboard (PDF)](https://github.com/Keerthi-ch3/keerthi-data-analyst-portfolio/blob/main/Starbucks_Executive_Overview_Dashboard%20PDF.pdf)
+### 📄 View Project  
+👉 [Download Starbucks Executive Overview Dashboard (PDF)](./Starbucks_Executive_Overview_Dashboard%20PDF.pdf)
 
 ---
 
