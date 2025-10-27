@@ -19,6 +19,7 @@ I’m passionate about leveraging tools like **Power BI, SQL, Python, and ETL pi
 | 👩‍💻 **About Me** | [View Profile](./AboutMe.md) |
 | 🚀 **Projects Portfolio** | [Explore Projects](./Projects.md) |
 | 💼 **Professional Experience** | [See Experience](./Experience.md) |
+| 🌐 **Featured Dashboard** | [Excelerate Internship Dashboard](https://lookerstudio.google.com/s/rgP_DOnFBBw) |
 
 ---
 
@@ -57,6 +58,61 @@ AWS (Basics) · Google Cloud · Jupyter Notebook · Git & GitHub
 
 ---
 
+## 🚀 Excelerate Internship – Learner Platform Executive Overview Dashboard  
+
+### 🎓 Role: *Data Analyst Associate Intern*  
+📅 *May 2025 – Present*  
+🛠️ *Tools:* PostgreSQL · Power BI · Looker Studio · Python · Excel · ETL
+
+---
+
+### 📘 Project Overview  
+Developed an end-to-end **data visualization and analytics dashboard** that transformed raw learner and opportunity datasets into **executive-level insights** for Excelerate’s leadership team.  
+
+The project covered **ETL pipeline design**, **data validation**, **data modeling**, and **real-time dashboard development** — providing a 360° view of program performance and learner engagement.
+
+---
+
+### 🧩 Workflow Breakdown  
+
+**1️⃣ Data Extraction & Loading (ETL):**  
+- Imported CSV files into PostgreSQL while keeping raw schemas untouched.  
+- Performed schema normalization and column mapping.  
+
+**2️⃣ Data Quality & Validation:**  
+- Checked for duplicates, null values, and incorrect mappings using SQL.  
+- Applied validation rules to ensure clean joins between learner and opportunity tables.  
+
+**3️⃣ Master Table Creation:**  
+- Created a **centralized master table** merging learner, opportunity, and mapping datasets.  
+- Documented all transformations and relationships for audit purposes.  
+
+**4️⃣ Dashboard Development:**  
+- Designed interactive **Looker Studio dashboards** visualizing KPIs like:  
+  - Active Learners  
+  - Completion Rates  
+  - Top Performing Modules  
+  - Engagement Trends  
+- Built custom filters for department, degree, and major segmentation.  
+
+**5️⃣ Reporting & Delivery:**  
+- Integrated PostgreSQL with Looker Studio for **real-time reporting**.  
+- Prepared final documentation and presentation for stakeholders.
+
+---
+
+### 📊 Dashboard Preview  
+🔗 [**View Live Looker Studio Dashboard**](https://lookerstudio.google.com/s/rgP_DOnFBBw)
+
+---
+
+### 🧠 Impact & Outcomes  
+- Reduced manual report generation time by **45%**.  
+- Improved executive visibility of learner performance and module outcomes.  
+- Strengthened data governance and ETL process documentation.  
+
+---
+
 ## ☕ Starbucks Executive Overview Dashboard  
 
 An interactive Power BI dashboard visualizing **Starbucks’ monthly sales performance**, featuring KPI cards, trend charts, and promotional analysis — designed with Starbucks’ signature green branding for executive reporting.  
@@ -83,13 +139,6 @@ An interactive Power BI dashboard visualizing **Starbucks’ monthly sales perfo
 
 ---
 
-## 📚 Education  
-
-🎓 **Master of Science in Information Systems & Technology** – *University of Missouri–St. Louis (GPA: 3.96/4.0)*  
-🎓 **Bachelor of Technology in Computer Science & Engineering** – *Malla Reddy Engineering College for Women (GPA: 9.0/10)*  
-
----
-
 ## 💼 Experience Summary  
 
 ### **Data Analyst Associate Intern – Excelerate (May 2025 – Present)**  
@@ -107,16 +156,15 @@ An interactive Power BI dashboard visualizing **Starbucks’ monthly sales perfo
 
 ---
 
-## 🧩 Projects Overview  
+## 🧩 Other Projects  
 
 | Project | Description | Tools |
 |----------|--------------|-------|
-| **Excelerate Internship – Learner Platform Dashboard** | Built an end-to-end BI pipeline using PostgreSQL and Looker Studio for executive learner analytics. | Power BI · SQL · ETL · Python |
-| **Starbucks Executive Dashboard** | Designed brand-aligned sales insights dashboard using Power BI with DAX and advanced visuals. | Power BI · DAX · Power Query |
-| **Sales & Customer Insights (UMSL)** | Developed sales and customer performance dashboard highlighting KPIs for business growth. | Power BI · Excel · DAX |
-| **HR Analytics Dashboard (UMSL)** | Visualized attrition and diversity trends to help improve HR retention strategy. | Power BI · Power Query |
-| **Facial Expression Recognition System** | Built OpenCV-based facial recognition model for child attention tracking. | Python · OpenCV · ML |
-| **Book Recommendation Chatbot** | Created NLP-based chatbot recommending books based on user input. | Python · NLP |
+| **Sales & Customer Insights (UMSL)** | Developed Power BI dashboard analyzing sales and customer KPIs. | Power BI · Excel · DAX |
+| **HR Analytics Dashboard (UMSL)** | Visualized attrition and diversity metrics for HR leadership. | Power BI · Power Query |
+| **Facial Expression Recognition System** | Built OpenCV-based model for child attention tracking. | Python · OpenCV · ML |
+| **Book Recommendation Chatbot** | Created NLP-based chatbot recommending books. | Python · NLP |
+| **Thompson Logistics System** | Designed ERDs, DFDs, and system workflow documentation. | Lucidchart · SQL · System Design |
 
 ---
 
@@ -132,6 +180,13 @@ An interactive Power BI dashboard visualizing **Starbucks’ monthly sales perfo
 
 ---
 
+## 📚 Education  
+
+🎓 **Master of Science in Information Systems & Technology** – *University of Missouri–St. Louis (GPA: 3.96/4.0)*  
+🎓 **Bachelor of Technology in Computer Science & Engineering** – *Malla Reddy Engineering College for Women (GPA: 9.0/10)*  
+
+---
+
 ## 📬 Contact  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/keerthireddy-chintalapudi-b40009191/)  
@@ -140,4 +195,4 @@ An interactive Power BI dashboard visualizing **Starbucks’ monthly sales perfo
 
 ---
 
-⭐ *This portfolio reflects my professional and academic growth in data analytics and business intelligence — transforming data into insight and impact.*
+⭐ *This portfolio reflects my professional and academic growth in data analytics, ETL, and business intelligence — transforming data into insight and measurable impact.*
