@@ -53,27 +53,26 @@ AWS (Basics) · Google Cloud · Jupyter Notebook · Git & GitHub
 ## ☕ Starbucks Executive Overview Dashboard  
 
 <p align="center">
-  <img src="https://github.com/Keerthi-ch3/keerthi-data-analyst-portfolio/blob/main/dashboard_preview.png" width="90%" alt="Starbucks Executive Dashboard Preview"/>
+  <img src="https://github.com/Keerthi-ch3/keerthi-data-analyst-portfolio/blob/main/Screenshot%202025-10-27%20161504.png" width="90%" alt="Starbucks Executive Dashboard Preview"/>
 </p>
 
 **🔍 Description:**  
-This Power BI dashboard visualizes **Starbucks’ monthly sales performance**, highlighting key KPIs like total sales, average ticket, and transactions.  
-It also compares **promo vs non-promo sales** and provides **store-wise insights** using a clean executive layout aligned with Starbucks’ brand theme.  
+An interactive **Power BI dashboard** visualizing Starbucks’ monthly sales performance.  
+It highlights key KPIs like **Total Sales**, **Average Ticket**, and **Transactions**, and provides **store-wise** and **promo vs non-promo** insights — all aligned with Starbucks’ brand theme ☕💚.
 
 **📊 Features:**  
 - KPI Cards for Total Sales, Average Ticket, and Transactions  
-- Line Chart for Monthly Sales Trend  
-- Bar Chart for Store-wise Sales Performance  
+- Line Chart for Monthly Sales Trends  
+- Bar Chart for Store-wise Sales Comparison  
 - Pie Chart for Promo vs Non-Promo Ratio  
 
 **🧠 Tools & Techniques:**  
 Power BI · DAX · Data Modeling · CSV Integration · ETL with Power Query  
 
-**📁 Project Files:**  
-📄 [Dashboard PDF Version](https://github.com/Keerthi-ch3/keerthi-data-analyst-portfolio/blob/main/Starbucks_Executive_Overview_Dashboard%20PDF.pdf)  
+**📄 View Project:**  
+[Download Starbucks Executive Overview Dashboard (PDF)](https://github.com/Keerthi-ch3/keerthi-data-analyst-portfolio/blob/main/Starbucks_Executive_Overview_Dashboard%20PDF.pdf)
 
 ---
-
 
 ## 📬 Contact  
 
