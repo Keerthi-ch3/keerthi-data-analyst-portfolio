@@ -1,144 +1,149 @@
 # 🚀 Projects Portfolio – Keerthi Reddy Chintalapudi  
 
-## 🌟 Featured Project – Data Visualization Dashboard (Excelerate Internship)
+🎯 **Data Scientist | Data Analyst | Power BI Developer | ETL Developer | Business Intelligence Analyst | Systems Analyst | Business Analyst**
 
-**Title:** Learner Platform Executive Overview Dashboard  
+---
+
+## 🌟 Featured Project – Excelerate Internship (Learner Platform Executive Overview Dashboard)
+
 **Role:** Data Analyst Associate Intern  
-**Tools Used:** PostgreSQL · ETL · Power BI · Looker Studio · Python · Excel  
+**Duration:** May 2025 – Present  
+**Tools Used:** PostgreSQL · Power BI · Looker Studio · Python · Excel · ETL  
 
 ---
 
-### 📘 Overview
-Developed a **real-world data-visualization dashboard** for the Excelerate Internship Program, transforming raw learner and opportunity data into actionable insights.  
-This project focused on **end-to-end analytics** — from ETL design and validation to dashboard reporting.
+### 📘 Overview  
+Developed a real-world **data visualization dashboard** for the Excelerate Internship Program, transforming raw learner and opportunity data into **actionable insights**.  
+This project focused on **end-to-end analytics** — from ETL workflow design and data validation to dashboard development and executive reporting.
 
 ---
 
-### 🧩 Project Workflow
+### 🧩 Project Workflow  
 
-#### 🔹 1️⃣ Data Extraction (ETL)
-Imported multiple CSV sources into PostgreSQL while keeping raw schemas untouched and preserving data integrity.
+#### 🔹 1️⃣ Data Extraction (ETL)  
+- Imported multiple CSV datasets into PostgreSQL while keeping raw schemas untouched.  
+- Ensured referential integrity and established relational joins for the master table.  
 
-#### 🔹 2️⃣ Data Quality Checks
-Validated datasets for duplicates, null values, and incorrect mappings using advanced SQL queries.
+#### 🔹 2️⃣ Data Quality Checks  
+- Conducted null, duplicate, and mismatch checks using SQL scripts.  
+- Applied conditional filters to validate join relationships and key dependencies.  
 
-#### 🔹 3️⃣ Master Table Creation
-Created a unified Master Table by merging Learner, Opportunity, and Mapping datasets using ETL workflows.
+#### 🔹 3️⃣ Master Table Creation  
+- Created a **centralized master table** merging learner, opportunity, and mapping datasets.  
+- Applied transformations for KPI alignment (e.g., active learners, completion rate).  
 
-#### 🔹 4️⃣ Dashboard Development
-Built an interactive Looker Studio dashboard to visualize metrics such as learner engagement, completion rate, and top-performing modules.
+#### 🔹 4️⃣ Dashboard Development  
+- Built a **Looker Studio Dashboard** for performance insights including:  
+  - Active Learners  
+  - Completion Trends  
+  - Department-Wise Distribution  
+  - Top Performing Cohorts  
+- Integrated real-time PostgreSQL connection for auto-refreshing data visuals.  
 
-#### 🔹 5️⃣ Documentation & Reporting
-Documented KPIs, transformation logic, and validation scripts; prepared final reporting for stakeholder review.
+#### 🔹 5️⃣ Documentation & Reporting  
+- Documented KPIs, ETL flow, and SQL transformation logic.  
+- Prepared a stakeholder report summarizing learner and module engagement patterns.  
 
 ---
 
 ### 📊 Dashboard Preview  
-🔗 **[View Live Dashboard](https://lookerstudio.google.com/u/0/reporting/a84027fe-84ea-4d07-a193-1bc5f6e406c5)**  
+🔗 **[View Live Dashboard on Looker Studio](https://lookerstudio.google.com/s/rgP_DOnFBBw)**  
 
 ---
 
-### 🧩 Key Highlights
-- Automated ETL workflow for clean data integration.  
-- Connected PostgreSQL → Looker Studio for real-time reporting.  
-- KPIs: *Active Learners, Completion Rates, Opportunity Growth*.  
-- Designed a modern, minimal visual layout for executive reporting.  
+### 💡 Key Highlights  
+- Automated **PostgreSQL → Looker Studio** pipeline for real-time analytics.  
+- Built ETL workflow improving data consistency and reducing manual effort by **45%**.  
+- Delivered KPI-driven dashboards enhancing reporting efficiency and transparency.  
+- Improved team collaboration and reporting accuracy through Agile sprint reviews.  
 
 ---
 
-### 🧠 Impact
-Improved visibility of training performance and reduced manual reporting time by 45%.  
-Enhanced skills in **SQL, ETL Design, and Looker Studio visualization**.
+## ☕ Starbucks Executive Overview Dashboard  
+
+**Objective:** Develop an interactive Power BI dashboard visualizing **monthly sales, transactions, and promo effectiveness** aligned with Starbucks’ corporate brand.  
 
 ---
 
-
-A showcase of my academic, professional, and internship projects reflecting my journey across **Data Analytics, Business Intelligence, and Software Development.**
-
----
-
-## 💼 1. Data Analyst Associate Intern – Excelerate (May 2025 – Present)
-**Role:** Data Analyst Intern | *Remote, St. Louis, MO*  
-
-- Designed and maintained dynamic **Power BI dashboards** to track KPIs, reducing reporting time by 60%.  
-- Built and optimized **ETL pipelines** in PostgreSQL to transform raw data into validated master tables.  
-- Authored and refined **SQL queries** for data extraction and reporting automation.  
-- Developed **predictive analytics models in Python** for quarterly sales forecasts.  
-- Conducted data quality checks for missing values, duplicates, and inconsistencies.  
-- Collaborated in Agile sprints and documented data definitions for governance.  
-
-**Tech Stack:** Power BI | PostgreSQL | Python | ETL | Data Validation | Agile  
-**Key Impact:** Delivered real-time business intelligence insights that improved reporting efficiency by 40%.
+### 🧠 Insights Delivered  
+- Total Sales: **2.57K**  
+- Average Ticket: **14.28**  
+- Transactions: **180**  
+- Promo vs Non-Promo Sales: **25% vs 75%**  
 
 ---
 
-## 🧠 2. Data Analyst – Accenture (June 2022 – July 2023)
-**Role:** Data Analyst | *Hyderabad, India*  
+### 📊 Dashboard Preview  
 
-- Created **interactive Power BI dashboards** visualizing sales, operations, and customer KPIs.  
-- Wrote **optimized SQL queries** (joins, CTEs, subqueries) for data transformation.  
-- Automated **Excel reporting with Pivot Tables & Macros**, cutting manual effort by 40%.  
-- Improved reporting accuracy by 25% via validation rules and data audits.  
-- Partnered with stakeholders to define **KPI frameworks** and launched six new BI reports.  
-- Contributed to ETL processes ensuring seamless data migration and quality.  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Keerthi-ch3/keerthi-data-analyst-portfolio/main/Screenshot%202025-10-27%20161504.png" width="90%" alt="Starbucks Executive Dashboard Preview"/>
+</p>
 
-**Tech Stack:** Power BI | SQL | Excel Automation | Macros | Data Visualization  
-**Achievements:** Improved departmental decision-making speed by 25%.  
+📄 [**Download Starbucks Executive Overview Dashboard (PDF)**](./Starbucks_Executive_Overview_Dashboard%20PDF.pdf)
 
 ---
 
-## 📊 3. Power BI Dashboards – Academic Projects (UMSL)
-**Institution:** University of Missouri–St. Louis | *Aug 2023 – May 2025*  
+### 💡 Tools & Techniques  
+Power BI · DAX · Power Query · Excel · Data Cleaning · Data Modeling  
 
-### 🔹 a. Sales & Customer Insights Dashboard  
-- Designed a **Power BI dashboard** analyzing sales data by region and product line.  
-- Used **advanced DAX measures** for YoY growth, margins, and retention KPIs.  
-- Provided insights that guided strategic changes, improving projected sales by 10%.  
-
-### 🔹 b. HR Analytics Dashboard  
-- Developed an **HR analytics solution** tracking attrition, diversity, and hiring trends.  
-- Integrated multi-source data via Power Query and built drill-down visuals.  
-- Helped leadership identify key turnover drivers to reduce attrition rates.  
-
-**Tech Stack:** Power BI | DAX | Power Query | Excel | Data Cleaning  
+**Key Features:**  
+- KPI Cards: Total Sales, Average Ticket, and Transactions  
+- Line Chart: Monthly Sales Over Time  
+- Bar Chart: Store-wise Sales Comparison  
+- Pie Chart: Promo vs Non-Promo Ratio  
+- Theme: Starbucks Green (#004C3F) with white card visuals  
 
 ---
 
-## 🎓 4. Facial Expression Analysis for Child Attention (Major Project)
-**Institution:** Malla Reddy Engineering College for Women | *Feb 2022 – Apr 2022*  
+## 🎓 Academic & Research Projects  
 
-- Built a **facial expression recognition system** using OpenCV and Linear Feature Analysis (LFA).  
-- Used facial cues (eye movement, expression, head direction) to assess attention.  
-- Designed a **custom classifier** for detecting distraction levels in e-learning.  
-
-**Tech Stack:** Python | OpenCV | Feature Extraction | Machine Learning  
-**Outcome:** Enhanced child focus detection accuracy for classroom analysis.  
+### 🔹 Sales & Customer Insights Dashboard (UMSL)  
+- Built a Power BI dashboard analyzing **regional and product-level sales**.  
+- Applied **DAX formulas** for YoY growth and customer retention metrics.  
+- Delivered insights that guided strategy improvements with 10% projected growth.  
+**Tools:** Power BI · Excel · DAX  
 
 ---
 
-## 🤖 5. Chatbot for Book Recommendation (Mini Project)
-**Institution:** Malla Reddy Engineering College for Women | *Oct 2021 – Dec 2021*  
-
-- Developed a **NLP-powered chatbot** to recommend books based on user inputs.  
-- Integrated natural language processing for intent understanding.  
-- Delivered a conversational interface for real-time book recommendations.  
-
-**Tech Stack:** Python | NLP | Text Processing | Recommendation Algorithms  
+### 🔹 HR Analytics Dashboard (UMSL)  
+- Designed an HR dashboard tracking **attrition, diversity, and hiring trends**.  
+- Integrated multi-source data via Power Query for real-time updates.  
+- Helped identify turnover causes, improving employee retention.  
+**Tools:** Power BI · Power Query · Excel  
 
 ---
 
-## 🧩 6. Graduate Projects & Team Coordination – UMSL
-**Roles:** Graduate Assistant & Academic Contributor  
-
-- Collaborated on **ERD, DFD, and System Design diagrams** for enterprise logistics cases.  
-- Led **Power BI dashboard creation** for logistics and warehousing data visualization.  
-- Supported students and teams with documentation, UI mockups, and data analytics.  
-
-**Tools:** Power BI | SQL | Lucidchart | Visio | Agile Project Management  
+### 🔹 Facial Expression Recognition System (Major Project)  
+- Created a **facial expression recognition system** using OpenCV and Linear Feature Analysis (LFA).  
+- Detected distraction levels and student engagement in online learning environments.  
+**Tools:** Python · OpenCV · Machine Learning  
 
 ---
 
-### 🏅 Certifications
+### 🔹 Chatbot for Book Recommendation (Mini Project)  
+- Developed a **Natural Language Processing (NLP) chatbot** to recommend books.  
+- Implemented sentiment-based analysis for personalized recommendations.  
+**Tools:** Python · NLP · Text Processing  
+
+---
+
+### 🔹 Thompson Logistics System (UMSL Project)  
+- Designed **ERDs, DFDs, and normalization schemas** for a logistics database.  
+- Defined relational models and functional dependencies for scalability.  
+**Tools:** Oracle SQL Developer · Lucidchart · SQL  
+
+---
+
+## 🧩 Graduate & Team Coordination Projects – UMSL  
+- Led Power BI and SQL-based **data visualization projects** for academic systems.  
+- Coordinated milestone submissions and documentation for team deliverables.  
+- Managed **Thompson Logistics** and **IST Alumni Tech Social** projects in collaboration with peers.  
+**Tools:** Power BI · SQL · Lucidchart · Agile Project Management  
+
+---
+
+## 🏅 Certifications  
+
 - Microsoft **Power BI Data Analyst (PL-300)**  
 - **SQL for Data Science** – Coursera  
 - **Advanced Excel for Business Analytics** – Udemy  
@@ -149,6 +154,12 @@ A showcase of my academic, professional, and internship projects reflecting my j
 
 ---
 
-📫 **Contact:**  
+## 📬 Contact  
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/keerthireddy-chintalapudi-b40009191/)  
 - ✉️ [keerthireddych3579@gmail.com](mailto:keerthireddych3579@gmail.com)  
+- 🌍 St. Louis, Missouri  
+
+---
+
+⭐ *This project portfolio showcases my experience across Data Analytics, ETL Development, and Business Intelligence — transforming raw data into meaningful business insights.*
