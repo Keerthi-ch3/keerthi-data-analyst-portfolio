@@ -95,6 +95,92 @@ Power BI · DAX · Power Query · Excel · Data Cleaning · Data Modeling
 
 ---
 
+## 💼 Insurance Premium and Payout KPI Dashboard  
+
+### 🎯 Objective  
+Analyze insurance policies to measure **premiums, payouts, underwriting expenses, ROI, and agent performance** across different regions, policy types, and customer categories.  
+
+---
+
+### ⚙️ Data Preparation  
+- Combined **Fact** and **6 Dimension Tables** (Customer, Agent, Policy Type, Protection Plan, Regional Manager, Zonal Manager).  
+- Cleaned and standardized data using Power Query, ensuring referential integrity and accurate joins.  
+
+---
+
+### 🧱 Data Modeling  
+- Designed a **Star Schema** model with clear relationships between fact and dimension tables.  
+- Added calculated columns for **ROI %, Tenure Buckets, and Payment Frequency**.  
+
+---
+
+### 📐 DAX Measures  
+Created 20+ measures to analyze core metrics:  
+- `Total Premium Amount`  
+- `Total Annual Premium`  
+- `Total Premium Paid`  
+- `Underwriting Expense`  
+- `Annualized ROI (%)`  
+
+---
+
+### 📊 Dashboard Development  
+- Designed **6 report pages** with slicers for Year, Policy Type, State, and Sales Agent.  
+- Used **cards, pie charts, combo charts, and matrix tables** for storytelling.  
+- Added bookmarks and toggle buttons for switching between visuals.  
+
+---
+
+### 🖼️ Dashboard Preview  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Keerthi-ch3/keerthi-data-analyst-portfolio/main/Summary.png" width="90%" alt="Summary View Dashboard"/>
+  <br/>
+  <em>Summary View – Key KPIs: No. of Policies, Total Premium, and ROI</em>
+  <br/><br/>
+
+  <img src="https://raw.githubusercontent.com/Keerthi-ch3/keerthi-data-analyst-portfolio/main/Insurance%20Overview.png" width="90%" alt="Insurance Overview Dashboard"/>
+  <br/>
+  <em>Insurance Overview – Expense distribution by policy, agent, and region</em>
+  <br/><br/>
+
+  <img src="https://raw.githubusercontent.com/Keerthi-ch3/keerthi-data-analyst-portfolio/main/Investment%20Value%20vs%20Maturity%20Value.png" width="90%" alt="Investment vs Maturity Value Dashboard"/>
+  <br/>
+  <em>Investment vs Maturity Value – ROI and Maturity growth comparison</em>
+  <br/><br/>
+
+  <img src="https://raw.githubusercontent.com/Keerthi-ch3/keerthi-data-analyst-portfolio/main/Annual%20Premium%20vs%20Protection%20Value.png" width="90%" alt="Annual Premium vs Protection Value Dashboard"/>
+  <br/>
+  <em>Annual Premium vs Protection Value – Coverage trend and ROI insights</em>
+  <br/><br/>
+
+  <img src="https://raw.githubusercontent.com/Keerthi-ch3/keerthi-data-analyst-portfolio/main/Premium%20Analysis%20(5-20%20Years).png" width="90%" alt="Premium Analysis Dashboard"/>
+  <br/>
+  <em>Premium Analysis (5–20 Years) – Long-term premium payment insights</em>
+  <br/><br/>
+
+  <img src="https://raw.githubusercontent.com/Keerthi-ch3/keerthi-data-analyst-portfolio/main/Sales%20Hierarchy%20Performance.png" width="90%" alt="Sales Hierarchy Performance Dashboard"/>
+  <br/>
+  <em>Sales Hierarchy Performance – Zonal and Regional manager breakdown</em>
+</p>
+
+---
+
+### 📥 Dashboard Resources  
+- 📁 [View Full Project Folder](https://github.com/Keerthi-ch3/keerthi-data-analyst-portfolio)  
+- 📄 [Download Power BI File (PBIX)](https://raw.githubusercontent.com/Keerthi-ch3/keerthi-data-analyst-portfolio/main/Insurance%20Dashboard.pbix)  
+
+---
+
+### 💡 Key Highlights  
+- Created a professional **Insurance Analytics Dashboard** for executive decision-making.  
+- Automated premium and ROI calculations using DAX.  
+- Designed clean visuals and optimized Power BI performance.  
+- Delivered insight-driven reporting across 8 states and 6 dimensions.  
+
+---
+
+
 ## 🎓 Academic & Research Projects  
 
 ### 🔹 Sales & Customer Insights Dashboard (UMSL)  
