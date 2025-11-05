@@ -14,12 +14,46 @@ I’m passionate about leveraging tools like **Power BI, SQL, Python, and ETL pi
 
 ## 🧭 Quick Navigation  
 
+Welcome to my professional data analytics portfolio!  
+Use the links below to explore my background, experience, and featured dashboards.
+
 | 📂 Section | 🔗 Link |
 |------------|---------|
 | 👩‍💻 **About Me** | [View Profile](./AboutMe.md) |
 | 🚀 **Projects Portfolio** | [Explore Projects](./Projects.md) |
 | 💼 **Professional Experience** | [See Experience](./Experience.md) |
-| 🌐 **Featured Dashboard** | [Excelerate Internship Dashboard](https://lookerstudio.google.com/s/rgP_DOnFBBw) |
+| 🌐 **Featured Dashboards** | [View Dashboards](#-featured-dashboards) |
+
+---
+
+## 📊 Featured Dashboards  
+
+| 💼 Project | 📄 Description | 🔗 View |
+|------------|----------------|--------|
+| **Insurance Premium & Payout KPI Dashboard** | Power BI dashboard analyzing insurance metrics such as total premiums, payouts, and claim ratios — designed for executive insights. | [📂 View Dashboard Folder](./Insurance_Premium_and_Payout_KPI_Dashboard/) |
+| **Starbucks Executive Overview Dashboard** | Interactive Power BI dashboard visualizing Starbucks’ monthly sales and KPIs with a modern theme. | [📄 View PDF Preview](./Starbucks_Executive_Overview_Dashboard%20PDF.pdf) |
+| **Excelerate Internship Dashboard** | Real-time Looker Studio dashboard tracking learner engagement and performance metrics. | [🌐 View Live Dashboard](https://lookerstudio.google.com/s/rgP_DOnFBBw) |
+
+---
+
+### 🧰 Tech Stack Used  
+
+| Dashboard | Tools / Technologies |
+|------------|----------------------|
+| 💼 **Insurance Premium & Payout KPI Dashboard** | ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?logo=powerbi) ![SQL](https://img.shields.io/badge/SQL-Database-blue?logo=postgresql) ![ETL](https://img.shields.io/badge/ETL-Pipeline-orange) |
+| ☕ **Starbucks Executive Overview Dashboard** | ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi) ![Excel](https://img.shields.io/badge/Excel-Data%20Preparation-green?logo=microsoft-excel) |
+| 🚀 **Excelerate Internship Dashboard** | ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-Analytics-blue?logo=google) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-lightblue?logo=postgresql) ![Python](https://img.shields.io/badge/Python-Scripting-green?logo=python) |
+
+---
+
+### 🖼️ Dashboard Thumbnails  
+
+<p align="center">
+  <img src="./Insurance_Premium_and_Payout_KPI_Dashboard/Summary.png" width="45%" alt="Insurance KPI Dashboard Preview" style="margin-right:10px;"/>
+  <img src="./Screenshot%202025-10-27%20161504.png" width="45%" alt="Starbucks Dashboard Preview"/>
+</p>
+
+---
 
 ---
 
